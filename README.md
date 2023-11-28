@@ -25,11 +25,7 @@ To clone and set up the project, please follow these instructions:
    cd <11288031_DCIT205>
    
 
-   Replace <11288031_DCIT205> with the name of the project directory.
-
-5. [Provide any additional setup instructions if necessary, such as installing dependencies or configuring environment variables.]
-
-6. [If applicable, provide instructions for running the project locally or deploying it to a server.]
+   Replace <11288031_DCIT205> with the name of the project directory
 
 ## Screenshots
 Here are screenshots showcasing each page of the Computer Science Department website:
